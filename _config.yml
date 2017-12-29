@@ -115,12 +115,12 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: Fireless
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
+title: FLY
 description: 人生到处知何似，应似飞鸿踏雪泥
 theme: kunka
 disqusname: minixalpha
